@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **whereibelong2/whereibelong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm GiddyChipmunk 👋
+
+# Hi, I'm GiddyChipmunk 𐔌՞ ܸ.ˬ.ܸ՞𐦯
 
 I build small products out of oddly specific problems.
 
