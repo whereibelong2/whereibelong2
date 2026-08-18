@@ -32,4 +32,4 @@ A translation tool designed around how my dad actually uses translations.
 
 ---
 
-*Usually building something I wish already existed.*
+*Aaand... I'm usually building something I wish already existed.*
