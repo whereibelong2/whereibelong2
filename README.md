@@ -32,4 +32,4 @@ A translation tool designed around how my dad actually uses translations.
 
 ---
 
-*Powered by curiosity, hyperfixations, and questionable decisions.*
+*Usually building something I wish already existed.*
