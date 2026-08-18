@@ -21,7 +21,7 @@ Most of my projects start with **"this is annoying..."** and somehow end with me
 
 ### ✐ᝰ. What I'm building
 
-**🎫 chuu.rra**
+**🎫 [chuu.rra](https://github.com/whereibelong2/chuu-rra)**
 A ticket-buying assistant designed to reduce friction during high-demand ticket sales.
 
 **🐰 tokkie**
