@@ -30,10 +30,6 @@ A tool that turns chat conversations into receipt-style keepsakes.
 **🌐 for dad**
 A translation tool designed around how my dad actually uses translations.
 
-### 🔧 I work with
-
-JavaScript · HTML/CSS · AI-assisted development · Product Design · Prototyping
-
 ---
 
 *Powered by curiosity, hyperfixations, and questionable decisions.*
