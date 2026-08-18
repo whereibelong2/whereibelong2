@@ -19,12 +19,12 @@ I build small products out of oddly specific problems.
 
 Most of my projects start with **"this is annoying..."** and somehow end with me building something to fix it.
 
-### 🐿️ What I'm building
+### ✐ᝰ. What I'm building
 
 **🎫 chuu.rra**
 A ticket-buying assistant designed to reduce friction during high-demand ticket sales.
 
-**🐰 Tokkie**
+**🐰 tokkie**
 A tool that turns chat conversations into receipt-style keepsakes.
 
 **🌐 for dad**
