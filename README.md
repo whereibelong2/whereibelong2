@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm GiddyChipmunk 👋
+
+I build small products out of oddly specific problems.
+
+Most of my projects start with **"this is annoying..."** and somehow end with me building something to fix it.
+
+### 🐿️ What I'm building
+
+**🎫 chuu.rra**
+A ticket-buying assistant designed to reduce friction during high-demand ticket sales.
+
+**🐰 Tokkie**
+A tool that turns chat conversations into receipt-style keepsakes.
+
+**🌐 for dad**
+A translation tool designed around how my dad actually uses translations.
+
+### 🔧 I work with
+
+JavaScript · HTML/CSS · AI-assisted development · Product Design · Prototyping
+
+---
+
+*Powered by curiosity, hyperfixations, and questionable decisions.*
