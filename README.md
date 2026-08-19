@@ -24,7 +24,7 @@ Most of my projects start with **"this is annoying..."** and somehow end with me
 **🎫 [chuu.rra](https://github.com/whereibelong2/chuu-rra)**
 A ticket-buying assistant designed to reduce friction during high-demand ticket sales.
 
-**🐰 tokkie**
+**🐰 [tokkie](https://github.com/whereibelong2/tokkie/tree/main)**
 A tool that turns chat conversations into receipt-style keepsakes.
 
 **🌐 for dad**
