@@ -27,7 +27,7 @@ A ticket-buying assistant designed to reduce friction during high-demand ticket 
 **🐰 [tokkie](https://github.com/whereibelong2/tokkie/tree/main)**
 A tool that turns chat conversations into receipt-style keepsakes.
 
-**🌐 for dad**
+**🌐 [for dad](https://github.com/whereibelong2/for-dad)**
 A translation tool designed around how my dad actually uses translations.
 
 ---
